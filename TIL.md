@@ -9,3 +9,6 @@ anytime, not just during formal lessons.
 - Learned that git push . send my changes to Github.
 - Learned that pull request lets the leader review the work before adding it to the main file or project.
 - Learned that is should always check the working branch to avoid problem.
+- Learned the the 'os' module used to work with file and folder in python.
+- Learned that the 'shutil' module used to move files to another folder.
+- Learned that we should be careful when coding or making a file name make sure that we know the files or folder name to avoid confusions or errors.
