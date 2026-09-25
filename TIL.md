@@ -18,3 +18,9 @@ anytime, not just during formal lessons.
 - float it a number that contains a decimal
 - string is a text that put inside a quotation mark.
 -  boolean is a true or false.
+-  Learned that if checks the first condition.
+-  Learned that elif is used for checking another condition when the first condition is false.
+-  Learned that else is used when none of the condition is true.
+-  Learn that conditional statement is helpful for us.
+-  Learned that == is used to compare values, while = is used to store a value.
+-  
